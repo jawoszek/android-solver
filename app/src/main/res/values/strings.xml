@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Solver</string>
+    <string name="show_list">Show list</string>
+    <string name="add_new">Add new</string>
+    <string name="push_butt">Add Problem</string>
+    <string name="textView1">Insert Function</string>
+    <string name="textView2">Insert Equations</string>
+    <string name="textView3">Insert Variables</string>
+    <string name="get_score">Evaluate</string>
+    <string name="plot_button">Show plot</string>
+
+</resources>
